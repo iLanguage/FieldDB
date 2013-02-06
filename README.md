@@ -1,4 +1,4 @@
-FieldDB has graduated into its own GitHub organization!
+FieldDB is out of the Lab and graduated into its own GitHub organization!
 ======
 
 
