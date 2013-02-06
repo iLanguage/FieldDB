@@ -1,4 +1,4 @@
-Fieldlinguistics database has graduated into its own GitHub organization!
+FieldDB has graduated into its own GitHub organization!
 ======
 
 
